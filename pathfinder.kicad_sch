@@ -2684,7 +2684,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812 Mini-E:SK6812MINI-E_fixed"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 185.42 67.31 0)
 			(effects
 				(font
@@ -3003,7 +3003,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812 Mini-E:SK6812MINI-E_fixed"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 246.38 67.31 0)
 			(effects
 				(font
@@ -3533,7 +3533,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812 Mini-E:SK6812MINI-E_fixed"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 200.66 67.31 0)
 			(effects
 				(font
@@ -3609,7 +3609,7 @@
 				)
 			)
 		)
-		(property "Footprint" "XIAO RP SERIES:XIAO-RP2040-DIP"
+		(property "Footprint" "Hackclub Footprints:XIAO-RP2040-DIP"
 			(at 93.218 76.708 0)
 			(effects
 				(font
@@ -3871,7 +3871,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812 Mini-E:SK6812MINI-E_fixed"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 170.18 67.31 0)
 			(effects
 				(font
@@ -4017,7 +4017,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812 Mini-E:SK6812MINI-E_fixed"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 215.9 67.31 0)
 			(effects
 				(font
@@ -4229,7 +4229,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812 Mini-E:SK6812MINI-E_fixed"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 231.14 67.31 0)
 			(effects
 				(font
