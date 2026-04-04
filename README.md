@@ -34,3 +34,5 @@ Unless someone would be open to teaching me... and I wouldn't be oppposed to tha
 ## Design
 
 Designed in KiCad, schematic and board files are in this repo! There is also a firmware test but do NOT rely on it whatsoever. (not like this project is getting touched anytime soon)
+
+Also, all my recordings on lapse are unlisted but if you want to see them LMK!! I will be so happy to show you how long I spent on this thing!!! 😭
