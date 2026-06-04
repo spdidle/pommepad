@@ -1,0 +1,26 @@
+### Footprint positions - created on 2026-06-02T20:21:14 ###
+### Printed by KiCad version 10.0.3
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val               Package                                PosX       PosY       Rot  Side
+D1        D                 D_DO-35_SOD27_P7.62mm_Horizontal    11.4252   -48.0878   90.0000  bottom
+D2        D                 D_DO-35_SOD27_P7.62mm_Horizontal    30.5327   -48.1678   90.0000  bottom
+D3        D                 D_DO-35_SOD27_P7.62mm_Horizontal    49.5652   -48.1978   90.0000  bottom
+D4        D                 D_DO-35_SOD27_P7.62mm_Horizontal    11.4852   -67.1978   90.0000  bottom
+D5        D                 D_DO-35_SOD27_P7.62mm_Horizontal    30.5327   -67.2578   90.0000  bottom
+D6        D                 D_DO-35_SOD27_P7.62mm_Horizontal    49.6652   -67.0778   90.0000  bottom
+U1        XIAO-RP2040-DIP   XIAO-RP2040-DIP                     17.5652   -20.3978  -90.0000  bottom
+D7        SK6812MINI-E      SK6812MINI-E_fixed                  20.8752   -47.2706  180.0000  top
+D8        SK6812MINI-E      SK6812MINI-E_fixed                  40.0152   -47.3806  180.0000  top
+D9        SK6812MINI-E      SK6812MINI-E_fixed                  59.2852   -47.4306  180.0000  top
+D10       SK6812MINI-E      SK6812MINI-E_fixed                  59.1950   -66.3983    0.0000  top
+D11       SK6812MINI-E      SK6812MINI-E_fixed                  39.9052   -66.4206    0.0000  top
+D12       SK6812MINI-E      SK6812MINI-E_fixed                  20.8852   -66.5206    0.0000  top
+SW1       SW_Push           SW_Cherry_MX_1.00u_PCB              21.0227   -42.9712    0.0000  top
+SW2       SW_Push           SW_Cherry_MX_1.00u_PCB              40.0727   -42.9712    0.0000  top
+SW3       SW_Push           SW_Cherry_MX_1.00u_PCB              59.1227   -42.9712    0.0000  top
+SW4       SW_Push           SW_Cherry_MX_1.00u_PCB              21.0227   -62.0212    0.0000  top
+SW5       SW_Push           SW_Cherry_MX_1.00u_PCB              40.0727   -62.0212    0.0000  top
+SW6       SW_Push           SW_Cherry_MX_1.00u_PCB              59.1275   -62.0164    0.0000  top
+U2        OLED_0.91_128x32  OLED_0.91_128x32                    33.1777   -24.3462   90.0000  top
+## End
