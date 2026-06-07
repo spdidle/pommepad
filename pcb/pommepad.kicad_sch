@@ -3377,7 +3377,7 @@
 	)
 	(no_connect
 		(at 237.49 60.96)
-		(uuid "88bcde7e-1a28-470d-ab22-cc7ec0ce945f")
+		(uuid "8367e340-4a6c-44fd-890c-75075052391a")
 	)
 	(no_connect
 		(at 110.49 68.58)
@@ -4217,7 +4217,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:SK6812MINI-E_fixed"
+		(property "Footprint" "Hackclub Footprints:MX_SK6812MINI-E_REV"
 			(at 170.18 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -4670,7 +4670,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:SK6812MINI-E_fixed"
+		(property "Footprint" "Hackclub Footprints:MX_SK6812MINI-E_REV"
 			(at 231.14 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -5294,7 +5294,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:SK6812MINI-E_fixed"
+		(property "Footprint" "Hackclub Footprints:MX_SK6812MINI-E_REV"
 			(at 185.42 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -5762,7 +5762,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:SK6812MINI-E_fixed"
+		(property "Footprint" "Hackclub Footprints:MX_SK6812MINI-E_REV"
 			(at 154.94 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -6010,7 +6010,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:SK6812MINI-E_fixed"
+		(property "Footprint" "Hackclub Footprints:MX_SK6812MINI-E_REV"
 			(at 200.66 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -6492,7 +6492,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:SK6812MINI-E_fixed"
+		(property "Footprint" "Hackclub Footprints:MX_SK6812MINI-E_REV"
 			(at 215.9 68.58 0)
 			(hide yes)
 			(show_name no)
