@@ -56,7 +56,7 @@ Case was designed (+ rendered) in Fusion360!
 
 ## Build & Assembly
 
-# Required Tools
+### Required Tools
 - Soldering iron
 - Solder
 - Tweezers
@@ -64,7 +64,7 @@ Case was designed (+ rendered) in Fusion360!
 - Computer with USB port
 - 3D printer
 
-# Assmebly  Steps
+### Assmebly  Steps
 1. Solder all the THT diodes onto the PCB
 2. Solder the LEDs to the PCB. I rotated the direction of the bottom row by accident so refer to the PCB layout if the orientation is confusing at all
 3. Solder the microcontroller, OLED display, and switches to the PCB
