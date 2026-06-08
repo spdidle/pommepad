@@ -16,7 +16,6 @@ Thumbs.db
 *~
 
 # kicad dont pmo rn omg
-
-**/fp-info-cache/
+**/*fp-info-cache*
 **/pommepad-backups/
 **/.history/
