@@ -13,6 +13,7 @@ Thumbs.db
 # temp files
 *.tmp
 *.swp
+*.lck
 *~
 
 # kicad dont pmo rn omg
