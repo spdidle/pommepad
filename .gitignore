@@ -15,8 +15,8 @@ Thumbs.db
 *.swp
 *~
 
-# kicad cache
-fp-info-cache/
-
 # kicad dont pmo rn omg
+
+**/fp-info-cache/
+**/pommepad-backups/
 **/.history/
