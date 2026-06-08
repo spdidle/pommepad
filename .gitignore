@@ -1,8 +1,8 @@
-# OS junk
+# random
 .DS_Store
 Thumbs.db
 
-# KiCad backups
+# kicad backups
 *.bak
 *.bck
 *.kicad_pcb-bak
@@ -10,16 +10,10 @@ Thumbs.db
 *.kicad_prl
 *.kicad_wks
 
-# Temporary files
+# temp files
 *.tmp
 *.swp
 *~
 
-# KiCad cache
+# kicad cache
 fp-info-cache/
-
-# Optional: manufacturing outputs
-gerbers/
-fabrication/
-plot/
-*.zip
