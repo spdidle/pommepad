@@ -42,9 +42,24 @@ Case was designed (+ rendered) in Fusion360!
 
 ## Build & Assembly
 
-1. 3D print the case in PLA  
-2. Solder all through-hole components onto the PCB (no SMD parts here)  
-3. Mount the PCB onto the bottom case shell  
-4. Place the top shell and align everything  
-5. Secure with 4mm long M3 screws  
-6. Have fun!
+# Required Tools
+- Soldering iron
+- Solder
+- Tweezers
+- Small screwdriver for M3 screws
+- Computer with USB port
+- 3D printer
+
+# Assmebly  Steps
+1. Solder all the THT diodes onto the PCB
+2. Solder the LEDs to the PCB. I rotated the direction of the bottom row by accident so refer to the PCB layout if the orientation is confusing at all
+3. Solder the microcontroller, OLED display, and switches to the PCB
+4. To assemble the case, place the PCB into the bottom shell
+5. Attach it to the top shell
+6. Secure with M3 screws.
+7. Since this build uses the RP2040, I will use QMK to install firmware
+8. Plug in the RP2040 to your computer with a USB cable while holding BOOT
+9. Flash the firmware using : "qmk flash -kb pommepad -km default"
+10. Modify keymapping in firmware, and set the 6 keys to your desired shortcuts
+11. Test your OLED (check I2C, SDA/SCL pins, etc)
+12. Once everything works, you will have a fully functional pomme! 🍎
