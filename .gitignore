@@ -1,0 +1,25 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# KiCad backups
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.kicad_wks
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# KiCad cache
+fp-info-cache/
+
+# Optional: manufacturing outputs
+gerbers/
+fabrication/
+plot/
+*.zip
