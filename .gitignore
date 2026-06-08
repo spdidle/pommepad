@@ -17,3 +17,6 @@ Thumbs.db
 
 # kicad cache
 fp-info-cache/
+
+# kicad dont pmo rn omg
+**/.history/
