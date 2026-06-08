@@ -40,6 +40,20 @@ Case was designed (+ rendered) in Fusion360!
 <img width="2740" height="1102" alt="image" src="https://github.com/user-attachments/assets/5f39c762-fae6-4b92-a30b-1b37d8f925b0" />
 </p>
 
+## BOM (Bill Of Materials)
+| Name                | Qty | Unit | Price (CAD) | Price (USD) | Total (CAD) | Total (USD) | Source                                                                 |
+|---------------------|-----|------|-------------|-------------|-------------|-------------|------------------------------------------------------------------------|
+| Diode (1N4148)      | 6   | pcs  | $0.02       | $0.01       | $0.12       | $0.08       | https://www.aliexpress.com/item/1005012285965228.html?channel=twinner  |
+| SK6812 MINI-E       | 6   | pcs  | $0.10       | $0.08       | $0.63       | $0.45       | https://www.aliexpress.com/item/1005008308801366.html?channel=twinner  |
+| MX Switch           | 6   | pcs  | $0.14       | $0.10       | $0.85       | $0.61       | https://www.aliexpress.com/item/1005008998414457.html?channel=twinner  |
+| Seeed XIAO RP2040   | 1   | pcs  | $6.05       | $4.36       | $6.05       | $4.36       | https://www.aliexpress.com/item/1005006987582110.html?channel=twinner  |
+| OLED 0.91" 128x32   | 1   | pcs  | $3.72       | $2.68       | $3.72       | $2.68       | https://www.aliexpress.com/item/1005009116307818.html?channel=twinner  |
+| M3 Screws, 4mm      | 4   | pcs  | $0.08       | $0.06       | $0.31       | $0.22       | https://www.aliexpress.com/item/1005010515160750.html?channel=twinner  |
+| PLA 3D Printed Case | 1   | pcs  | $2.28       | $1.64       | $2.28       | $1.64       |                                                                        |
+| PCB                 | 1   | pcs  | $1.11       | $0.80       | $1.11       | $0.80       | https://jlcpcb.com                                                     |
+|                     |     |      |             |             |             |             |                                                                        |
+| Project total:      |     |      |             |             | 15.07 CAD   | 10.85 USD   |                                                                        |
+
 ## Build & Assembly
 
 # Required Tools
