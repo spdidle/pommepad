@@ -5,7 +5,7 @@
 
 ## What is this?
 
-The pommepad is an apple-shaped macropad PCB featuring 6 programmable keys, per-key RGB LEDs, and an OLED display. It's cute, it's functional, and it's shaped like an apple !! 🍎
+The pommepad is an apple-shaped macropad featuring 6 programmable keys, per-key RGB LEDs, and an OLED display. It's cute, it's functional, and it's shaped like an apple !! 🍎
 
 ## Why did I make this?
 
@@ -15,7 +15,7 @@ I also just thought it would be fun to design a PCB that isn't a plain old recta
 
 ## Features
 
-- **6 mechanical key switches** — Fully programmable them :)
+- **6 mechanical key switches** — Fully programmable :)
 - **Per-key RGB LEDs** — What can I say, they're cool
 - **OLED display** — Probably just to show something fun, or which app or layer I'm currently on.
 
@@ -25,8 +25,11 @@ Each of the 6 keys can be mapped to any keystroke, shortcut, or media control yo
 
 ## Design
 
-Designed in KiCad, schematic and board files are in this repo! There is also a firmware test but do NOT trust it 100% for now, or at least until I code a better version.
+Designed in KiCad, schematic and board files are in this repo! There is also a firmware test, but it is not fully stable yet, unfortunately!
 <p align="center">
+  
+<img width="1169" height="680" alt="image" src="https://github.com/user-attachments/assets/d3083035-487d-4b82-99bc-dcae38778b5b" />
+  
 <img width="1081" height="628" alt="image" src="https://github.com/user-attachments/assets/a2d4067e-5155-49e3-89cd-e091acb46606" />
 
 <img width="1081" height="628" alt="image" src="https://github.com/user-attachments/assets/c72adaea-2290-4421-9322-8945fe568a23" />
@@ -36,3 +39,12 @@ Case was designed (+ rendered) in Fusion360!
 <p align="center">
 <img width="2740" height="1102" alt="image" src="https://github.com/user-attachments/assets/5f39c762-fae6-4b92-a30b-1b37d8f925b0" />
 </p>
+
+## Build & Assembly
+
+1. 3D print the case in PLA  
+2. Solder all through-hole components onto the PCB (no SMD parts here)  
+3. Mount the PCB onto the bottom case shell  
+4. Place the top shell and align everything  
+5. Secure with 4mm long M3 screws  
+6. Have fun!
